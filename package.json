@@ -1,0 +1,28 @@
+{
+  "name": "leaderboard",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloso0114/leaderboard-Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloso0114/leaderboard-Js/issues"
+  },
+  "homepage": "https://github.com/carloso0114/leaderboard-Js#readme",
+  "devDependencies": {
+    "css-loader": "^6.2.0",
+    "style-loader": "^3.2.1",
+    "webpack": "^5.47.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {},
+  "keywords": []
+}
