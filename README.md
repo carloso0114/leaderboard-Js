@@ -26,7 +26,7 @@ Structure of the page.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/carloso0114/leaderboard-Js/setup-project/dist/index.html)
 
 ### Setup
 
