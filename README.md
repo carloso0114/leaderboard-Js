@@ -1,65 +1,55 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Leaderboard
 
-> One paragraph statement about the project.
+> The basic structure of the project.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+Structure of the page.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript
+
+- CSS
+
+- HTML
+
+- Webpack
+
+- VS code
+
+- Eslint
+
+- Stylelint
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Open Terminal
+- In your prefered folder, run <code>git clone `https://github.com/carloso0114/leaderboard-Js.git`</code>
+- Open the `index.html` in the /dist folder to run the compiled webpack project.
+- Optional: If you want to edit the project you must run:
+  <code>npm i</code>
+  edit the files inside /src and run :
+  <code>npm run build</code>
 
 ## Authors
 
-👤 **Author1**
+👤  **Carlos Ospina**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [carloso0114](https://github.com/carloso0114)
+- LinkedIn: [Carlos Ospina](https://www.linkedin.com/in/carlosospina/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/carloso0114/Todo-List-2.0/issues).
 
 ## Show your support
 
@@ -67,9 +57,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- W3School
+- Bootstrap 5
 
 ## 📝 License
 
