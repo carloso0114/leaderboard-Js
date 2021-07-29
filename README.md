@@ -2,7 +2,7 @@
 
 # Leaderboard
 
-> The basic structure of the project.
+> The basic structure of the project plus api consuming, sending and getting data.
 
 ![screenshot](./app_screenshot.png)
 
