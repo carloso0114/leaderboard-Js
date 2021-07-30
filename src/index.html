@@ -23,44 +23,26 @@
       <div class="col">
         <div class="d-flex justify-content-between py-5">
           <h2>Recent Scores</h2>
-          <button type="button" class="btn btn-light">Refresh</button>
+          <button type="button" id="refresh" class="btn btn-light">Refresh</button>
         </div>
         <table class="table table-bordered">
-          <tr>
-            <td>Name: 100</td>
-          </tr>
-          <tr>
-            <td>Name: 20</td>
-          </tr>
-          <tr>
-            <td>Name: 50</td>
-          </tr>
-          <tr>
-            <td>Name: 78</td>
-          </tr>
-          <tr>
-            <td>Name: 125</td>
-          </tr>
-          <tr>
-            <td>Name: 77</td>
-          </tr>
-          <tr>
-            <td>Name: 42</td>
-          </tr>
+          <tbody>
+          </tbody>
         </table>
       </div>
       <div class="col">
         <h2 class="py-5">Add your score</h2>
-        <input type="text" class="form-control " placeholder="Your name">
-        <input type="text" class="form-control my-3" placeholder="Your score">
+        <input type="text" id="user" class="form-control " placeholder="Your name">
+        <input type="text" id="score" class="form-control my-3" placeholder="Your score">
         <div class="d-flex justify-content-end">
-        <button type="button" class="btn btn-light">Submit</button>
+          <button type="button" id="submit" class="btn btn-light">Submit</button>
         </div>
       </div>
     </div>
   </div>
   <footer class="mt-auto bg-secondary py-2 text-center">
-    <span>Github : </span><a class="text-white text-decoration-none" href="https://github.com/carloso0114">Carlos Ospina</a>
+    <span>Github : </span><a class="text-white text-decoration-none" href="https://github.com/carloso0114">Carlos
+      Ospina</a>
   </footer>
 </body>
 

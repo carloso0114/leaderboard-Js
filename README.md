@@ -2,7 +2,7 @@
 
 # Leaderboard
 
-> The basic structure of the project.
+> The basic structure of the project plus api consuming, sending and getting data.
 
 ![screenshot](./app_screenshot.png)
 
@@ -49,7 +49,7 @@ Structure of the page.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/carloso0114/Todo-List-2.0/issues).
+Feel free to check the [issues page](https://github.com/carloso0114/leaderboard-Js/issues).
 
 ## Show your support
 
