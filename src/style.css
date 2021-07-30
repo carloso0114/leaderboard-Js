@@ -1,3 +1,4 @@
-* {
-  font-style: normal;
+.scrollable {
+  height: 290px; 
+  overflow: auto;
 }
